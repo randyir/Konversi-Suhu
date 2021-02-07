@@ -1,6 +1,6 @@
-// KELOMPOK 5
 package konversisuhu;
 import java.util.*;
+
 public class KonversiSuhu {
     static double SuhuAwal;
     static char Awal;
