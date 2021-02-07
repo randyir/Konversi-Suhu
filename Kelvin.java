@@ -1,4 +1,3 @@
-// KELOMPOK 5
 package konversisuhu;
 public class Kelvin {
     double toFahrenheit(){
