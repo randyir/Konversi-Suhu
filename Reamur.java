@@ -1,4 +1,3 @@
-// KELOMPOK 5
 package konversisuhu;
 public class Reamur {
     double toFahrenheit(){
